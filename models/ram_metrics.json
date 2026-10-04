@@ -1,0 +1,22 @@
+{
+  "component": "ram",
+  "mae": 91.05772087141214,
+  "rmse": 158.10298684086357,
+  "r2": 0.8415594004709087,
+  "n_rows_labeled": 1119,
+  "n_groups_labeled": 473,
+  "features_used": [
+    "frequency_mhz",
+    "speed_mts",
+    "total_capacity_gb",
+    "module_count",
+    "gb_per_module",
+    "cas_latency",
+    "first_word_latency_ns",
+    "latency_ratio",
+    "brand",
+    "memory_type",
+    "is_rgb"
+  ],
+  "log_target": true
+}

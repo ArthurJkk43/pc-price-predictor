@@ -1,0 +1,22 @@
+{
+  "component": "cpu_cooler",
+  "mae": 10.573301826854793,
+  "rmse": 16.877718398813816,
+  "r2": 0.46705922735071204,
+  "n_rows_labeled": 155,
+  "n_groups_labeled": 148,
+  "features_used": [
+    "fan_rpm_min",
+    "fan_rpm_max",
+    "fan_rpm_mid",
+    "noise_level_min",
+    "noise_level_max",
+    "noise_db_mid",
+    "rpm_per_db",
+    "support_AM5",
+    "supports_LGA1700",
+    "cooler_type",
+    "brand"
+  ],
+  "log_target": true
+}

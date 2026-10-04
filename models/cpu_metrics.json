@@ -1,0 +1,19 @@
+{
+  "component": "cpu",
+  "mae": 100.99341682769492,
+  "rmse": 163.564886036032,
+  "r2": 0.46101893714421516,
+  "n_rows_labeled": 517,
+  "n_groups_labeled": 464,
+  "features_used": [
+    "core_count",
+    "performance_core_clock_ghz",
+    "performance_core_boost_clock_ghz",
+    "tdp_watts",
+    "ghz_boost_minus_base",
+    "performance_per_watt",
+    "brand",
+    "microarchitecture"
+  ],
+  "log_target": true
+}

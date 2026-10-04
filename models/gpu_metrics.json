@@ -1,0 +1,22 @@
+{
+  "component": "gpu",
+  "mae": 53.59117570161252,
+  "rmse": 78.14474439409209,
+  "r2": 0.33804161341960004,
+  "n_rows_labeled": 1647,
+  "n_groups_labeled": 158,
+  "features_used": [
+    "gpu_memory_gb",
+    "gpu_core_clock_mhz",
+    "gpu_boost_clock_mhz",
+    "gpu_length_mm",
+    "gpu_release_year",
+    "gpu_bus_width_bits",
+    "memory_bandwidth_proxy",
+    "clock_delta",
+    "gpu_memory_type",
+    "gpu_architecture",
+    "brand"
+  ],
+  "log_target": true
+}

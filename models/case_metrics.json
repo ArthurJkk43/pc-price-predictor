@@ -1,0 +1,27 @@
+{
+  "component": "case",
+  "mae": 52.51053123694808,
+  "rmse": 85.84081403118859,
+  "r2": 0.1971979343849084,
+  "n_rows_labeled": 957,
+  "n_groups_labeled": 590,
+  "features_used": [
+    "external_volume_liters",
+    "internal_3.5_bays",
+    "has_glass",
+    "has_volume",
+    "has_panel",
+    "has_power_supply",
+    "supports_itx",
+    "supports_matx",
+    "supports_atx",
+    "supports_eatx",
+    "type",
+    "case_size",
+    "case_category",
+    "side_panel_class",
+    "series_tag",
+    "brand"
+  ],
+  "log_target": true
+}

@@ -1,0 +1,28 @@
+{
+  "component": "case_fan",
+  "mae": 13.978032990269462,
+  "rmse": 21.93648710789615,
+  "r2": 0.20716248558316885,
+  "n_rows_labeled": 972,
+  "n_groups_labeled": 611,
+  "features_used": [
+    "size_mm",
+    "pwm",
+    "rpm_min",
+    "rpm_max",
+    "rpm_mid",
+    "noise_db_min",
+    "noise_db_max",
+    "noise_db_mid",
+    "airflow_cfm_min",
+    "airflow_cfm_max",
+    "airflow_cfm_mid",
+    "airflow_per_noise",
+    "rpm_per_noise",
+    "has_rpm",
+    "has_airflow",
+    "has_noise",
+    "brand"
+  ],
+  "log_target": true
+}

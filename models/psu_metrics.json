@@ -1,0 +1,18 @@
+{
+  "component": "psu",
+  "mae": 53.62376918827449,
+  "rmse": 91.29723239989481,
+  "r2": 0.6665564363159848,
+  "n_rows_labeled": 505,
+  "n_groups_labeled": 334,
+  "features_used": [
+    "wattage",
+    "efficiency_tier",
+    "is_modular",
+    "type",
+    "efficiency_rating",
+    "modular",
+    "brand"
+  ],
+  "log_target": true
+}

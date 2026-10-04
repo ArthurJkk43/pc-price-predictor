@@ -1,0 +1,32 @@
+{
+  "component": "monitor",
+  "mae": 149.1483062806763,
+  "rmse": 265.0439212804723,
+  "r2": 0.5998640020087063,
+  "n_rows_labeled": 970,
+  "n_groups_labeled": 858,
+  "features_used": [
+    "screen_size_numeric",
+    "res_w",
+    "res_h",
+    "ppi",
+    "refresh_rate_numeric",
+    "response_time_ms",
+    "megapixels",
+    "aspect_ratio_decimal",
+    "is_4k",
+    "is_1080p",
+    "is_1440p",
+    "is_ultrawide",
+    "is_super_ultrawide",
+    "is_oled",
+    "is_mini_led",
+    "panel_family",
+    "panel_type",
+    "resolution_class",
+    "refresh_rate_bucket",
+    "brand",
+    "aspect_ratio"
+  ],
+  "log_target": true
+}

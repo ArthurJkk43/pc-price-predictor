@@ -1,0 +1,20 @@
+{
+  "component": "motherboard",
+  "mae": 61.25613576540366,
+  "rmse": 96.69290823832014,
+  "r2": 0.6732964656045575,
+  "n_rows_labeled": 629,
+  "n_groups_labeled": 626,
+  "features_used": [
+    "has_wifi",
+    "memory_max_gb",
+    "memory_slots",
+    "brand",
+    "chipset",
+    "socket_cpu",
+    "form_factor",
+    "form_factor_class",
+    "series_tag"
+  ],
+  "log_target": true
+}
